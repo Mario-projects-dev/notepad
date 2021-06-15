@@ -252,7 +252,7 @@ void Notepad::setFontBold(bool bold)
 void Notepad::about()
 {
    QMessageBox::about(this, tr("About MDI"),
-                tr("The <b>Notepad</b> example demonstrates how to code a basic "
+                tr("The <b>Notepad</b> example how to code a basic "
                    "text editor using QtWidgets"));
 
 }
